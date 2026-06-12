@@ -53,7 +53,7 @@
    - 카메라 좌표계 기반 3D 위치 추정
    - MoveIt 및 Joint Trajectory 기반 로봇팔 제어
 
-4. [UKF·NMPC·DNN 기반 자율주행 성능 개선 프로젝트](https://github.com/seongjin-yoon/-Intel-9th-Autonomous-driving-car-)
+4. [UKF·NMPC·DNN 기반 자율주행 성능 개선 프로젝트](https://github.com/seongjin-yoon/turtlebot3-autonomous-driving )
    - LiDAR 센서 데이터 안정화 및 UKF 기반 거리 데이터 필터링
    - NMPC 제어 구조 및 DNN 기반 연산시간 개선 구조 학습
    - 자율주행 궤적 오차 및 진동 감소를 목표로 프로젝트 수행
