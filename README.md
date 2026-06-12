@@ -14,7 +14,6 @@
 - Vision, Sensor Fusion, ROS, LiDAR 기반 프로젝트를 수행하며 인지·판단·제어 흐름에 관심을 가지고 있습니다.
 - 향후 자율주행, SLAM, 센서융합, 로봇 시스템 분야에서 전문성을 키우는 것을 목표로 하고 있습니다.
 
-```markdown
 ## 🛠 Tech Stack
 
 ### Language
