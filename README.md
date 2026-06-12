@@ -72,15 +72,6 @@
 
 ---
 
-## 📌 Experience
-
-- Intel Edge AI SW 아카데미 9기 수료 예정
-- 정보처리기사 필기 합격
-- OPIc IM2
-- 자율주행 관련 학술제 포스터 발표 경험
-
----
-
 ## 📫 Contact
 
 - 📧 Email: kevin1874@naver.com
