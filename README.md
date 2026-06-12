@@ -14,8 +14,7 @@
 - Vision, Sensor Fusion, ROS, LiDAR 기반 프로젝트를 수행하며 인지·판단·제어 흐름에 관심을 가지고 있습니다.
 - 향후 자율주행, SLAM, 센서융합, 로봇 시스템 분야에서 전문성을 키우는 것을 목표로 하고 있습니다.
 
----
-
+```markdown
 ## 🛠 Tech Stack
 
 ### Language
@@ -23,18 +22,41 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<br/>
+
 ### Embedded / AI
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-00AEEF?style=for-the-badge&logo=intel&logoColor=white)
+
+<br/>
 
 ### Robotics / Vision
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 
----
+<br/>
+
+### Autonomous Driving / Robotics
+![SLAM](https://img.shields.io/badge/SLAM-2F4F4F?style=for-the-badge)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-4682B4?style=for-the-badge)
+![LiDAR Data](https://img.shields.io/badge/LiDAR_Data-555555?style=for-the-badge)
+![UKF](https://img.shields.io/badge/UKF-800080?style=for-the-badge)
+![MoveIt](https://img.shields.io/badge/MoveIt-6A5ACD?style=for-the-badge)
+
+<br/>
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge)
+```
+
 
 ## 💼 Projects
 
@@ -43,7 +65,7 @@
    - 카메라 영상 처리 결과를 주행 판단 로직과 연동
    - Intel Edge AI SW 아카데미 9기 1차 프로젝트
 
-2. [RADAR 기반 실시간 자율주행 경찰 로봇](https://github.com/seongjin-yoon/RADAR)
+2. [RADAR 기반 실시간 자율주행 정찰 로봇](https://github.com/seongjin-yoon/RADAR)
    - Radar 센서를 활용한 객체 탐지 및 거리 기반 위험 판단
    - 실시간 주행 상황 인식 및 판단 로직 구현
    - Intel Edge AI SW 아카데미 9기 2차 프로젝트
