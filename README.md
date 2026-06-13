@@ -59,10 +59,10 @@
 
 ## 💼 Projects
 
-1. [CAN 통신 기반 무인배달차량 Vision 시스템](https://github.com/seongjin-yoon/can-based-autonomous-delivery-car)
-   - OpenCV 기반 라인 트레이싱 및 객체 인식 Vision 모듈 구현
-   - 카메라 영상 처리 결과를 주행 판단 로직과 연동
-   - Intel Edge AI SW 아카데미 9기 1차 프로젝트
+1. [UKF·NMPC·DNN 기반 고정밀 자율주행 제어 시스템](https://github.com/seongjin-yoon/turtlebot3-autonomous-driving)
+   - LiDAR 센서 데이터 안정화 및 UKF 기반 거리 데이터 필터링
+   - NMPC 제어 구조 및 DNN 기반 연산시간 개선 구조 학습
+   - 자율주행 궤적 오차 및 진동 감소를 목표로 프로젝트 수행
 
 2. [RADAR 기반 실시간 자율주행 정찰 로봇](https://github.com/seongjin-yoon/RADAR)
    - Radar 센서를 활용한 객체 탐지 및 거리 기반 위험 판단
@@ -74,10 +74,10 @@
    - 카메라 좌표계 기반 3D 위치 추정
    - MoveIt 및 Joint Trajectory 기반 로봇팔 제어
 
-4. [UKF·NMPC·DNN 기반 고정밀 자율주행 제어 시스템](https://github.com/seongjin-yoon/turtlebot3-autonomous-driving)
-   - LiDAR 센서 데이터 안정화 및 UKF 기반 거리 데이터 필터링
-   - NMPC 제어 구조 및 DNN 기반 연산시간 개선 구조 학습
-   - 자율주행 궤적 오차 및 진동 감소를 목표로 프로젝트 수행
+4. [CAN 통신 기반 무인배달차량 Vision 시스템](https://github.com/seongjin-yoon/can-based-autonomous-delivery-car)
+   - OpenCV 기반 라인 트레이싱 및 객체 인식 Vision 모듈 구현
+   - 카메라 영상 처리 결과를 주행 판단 로직과 연동
+   - Intel Edge AI SW 아카데미 9기 1차 프로젝트
 
 ---
 
