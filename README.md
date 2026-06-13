@@ -1,5 +1,7 @@
-# Hi there! 👋  
-> 자율주행 SW / 임베디드 AI / 로봇 시스템 개발자 지망생
+ # Autonomous Driving & Robotics Software Developer
+
+> 자율주행 SW, 센서융합, SLAM, 임베디드 AI 기반 로봇 시스템을 학습하고 개발하는 엔지니어 지망생입니다.
+ 👋  
 
 ---
 
