@@ -58,7 +58,6 @@
 
 
 ## 💼 Projects
-
 1. [CAN 통신 기반 무인배달차량 Vision 시스템](https://github.com/seongjin-yoon/can-based-autonomous-delivery-car)
    - OpenCV 기반 라인 트레이싱 및 객체 인식 Vision 모듈 구현
    - 카메라 영상 처리 결과를 주행 판단 로직과 연동
