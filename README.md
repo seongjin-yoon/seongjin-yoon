@@ -54,10 +54,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge)
-```
 
+---
 
 ## 💼 Projects
+
 1. [CAN 통신 기반 무인배달차량 Vision 시스템](https://github.com/seongjin-yoon/can-based-autonomous-delivery-car)
    - OpenCV 기반 라인 트레이싱 및 객체 인식 Vision 모듈 구현
    - 카메라 영상 처리 결과를 주행 판단 로직과 연동
@@ -78,6 +79,7 @@
    - NMPC 제어 구조 및 DNN 기반 연산시간 개선 구조 학습
    - 자율주행 궤적 오차 및 진동 감소를 목표로 프로젝트 수행
 
+---
 
 ## 🎯 Interest
 
@@ -95,4 +97,3 @@
 
 - 📧 Email: kevin1874@naver.com
 - 💻 GitHub: [https://github.com/seongjin-yoon](https://github.com/seongjin-yoon)
-```
