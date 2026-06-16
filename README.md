@@ -1,5 +1,4 @@
- # Autonomous Driving & Robotics Software Developer
-
+# Autonomous Driving, SLAM & Robotics Portfolio
 > 자율주행 SW, 센서융합, SLAM, 임베디드 AI 기반 로봇 시스템을 학습하고 개발하는 엔지니어 지망생입니다.
  👋  
 
