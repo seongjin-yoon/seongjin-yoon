@@ -1,6 +1,5 @@
 # Autonomous Driving, SLAM & Robotics Portfolio
-> 자율주행 SW, 센서융합, SLAM, 임베디드 AI 기반 로봇 시스템을 학습하고 개발하는 엔지니어 지망생입니다.
- 👋  
+> 자율주행, 센서융합, SLAM, 로봇 시스템 분야를 학습하며 ROS/ROS2 기반 프로젝트를 수행하고 있습니다. 👋 
 
 ---
 
