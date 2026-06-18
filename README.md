@@ -64,8 +64,8 @@
    - NMPC 제어 구조 및 DNN 기반 연산시간 개선 구조 학습
    - 자율주행 궤적 오차 및 진동 감소를 목표로 프로젝트 수행
 
-2. [RADAR 기반 실시간 자율주행 정찰 로봇](https://github.com/seongjin-yoon/RADAR)
-   - Radar 센서를 활용한 객체 탐지 및 거리 기반 위험 판단
+2. [LiDAR 기반 실시간 자율주행 정찰 로봇](https://github.com/seongjin-yoon/RADAR)
+   - LiDAR 센서를 활용한 객체 탐지 및 거리 기반 위험 판단
    - 실시간 주행 상황 인식 및 판단 로직 구현
    - Intel Edge AI SW 아카데미 9기 2차 프로젝트
 
