@@ -69,7 +69,7 @@
    - 실시간 주행 상황 인식 및 판단 로직 구현
    - Intel Edge AI SW 아카데미 9기 2차 프로젝트
 
-3. [ROS2 기반 로봇팔 사과 수확 시스템](https://github.com/seongjin-yoon/all-in-one-fresh-farm)
+3. [ROS2 기반 농산물 수확부터 판매까지 올인원 시스템](https://github.com/seongjin-yoon/all-in-one-fresh-farm)
    - YOLO / Depth Camera 기반 객체 인식
    - 카메라 좌표계 기반 3D 위치 추정
    - MoveIt 및 Joint Trajectory 기반 로봇팔 제어
